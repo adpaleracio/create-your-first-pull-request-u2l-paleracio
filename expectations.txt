@@ -1,0 +1,1 @@
+In CMSC 100, I hope I will be able to understand deeper concepts in web programming since I only know how to use HTML and CSS, which are typically used for the front-end only. Although I enjoy the design aspect of web programming, I want to widen my knowledge and learn how to also do the back-end so I can create functional web apps for all.
